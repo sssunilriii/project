@@ -1,2 +1,2 @@
 # project
-BS Technology
+This is read me file 
